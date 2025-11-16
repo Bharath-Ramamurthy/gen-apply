@@ -1,5 +1,5 @@
 # HireMail AI 🚀
-**Multi-Agent, LLM-Orchestrated Job Application Automation**
+**AI  powered Job Application Platform*
 
 HireMail AI is a production-grade system that automates the end-to-end job application workflow — from reading job descriptions to tailoring resumes and cover letters, and finally submitting applications via Gmail. Built for speed, reliability, and precision, the system is designed to give job seekers a measurable edge while preserving security and privacy.
 
@@ -34,21 +34,7 @@ HireMail AI automates that pipeline using modern Generative AI techniques so you
 - **Email Agent** — formats message, manages Gmail OAuth flow, and queues sends.  
 - **Auto-Diagnostic Agent** — runtime monitor, automated remediation, retry logic, and prompt consistency checks.  
 - **LLM Factory Handler** — dynamic model selection (latency/cost/accuracy tradeoffs), fallback and failover policies.  
-- **Vector Search (FAISS)** — semantic matching for skills and past projects.
-
----
-
-## Tech stack
-- **Language:** Python  
-- **Frontend:** Streamlit (lightweight UI for demo & testing)  
-- **Orchestration:** LangChain-style agents / custom agent framework  
-- **LLMs:** OpenAI, Mistral, Gemini, Hugging Face Hub (multi-provider strategy)  
-- **Vector DB:** FAISS (embeddings + semantic search)  
-- **Email:** Google Gmail API (OAuth2)  
-- **PDF utils:** (ReportLab / FPDF / PDF generation tools)  
-- **Resume parsing:** NLP pipelines + LLM prompts
-
----
+- **Vector Search (FAISS)** — semantic matching for skills and past projects
 
 ## Reliability & Engineering notes
 - Self-healing behavior via the Auto-Diagnostic Agent reduces manual ops and increases uptime.  
