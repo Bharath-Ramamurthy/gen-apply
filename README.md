@@ -54,8 +54,6 @@ If you’d like a **technical walkthrough** or **architecture explanation**, fee
 ---
 
 ## 🎥 Demo
-
-**Watch Full Demo:**  
-👉 https://www.youtube.com/watch?v=Y0BHGISzkck
+**Watch Full Demo → [YouTube Video](https://www.youtube.com/watch?v=Y0BHGISzkck)**  
 
 ---
