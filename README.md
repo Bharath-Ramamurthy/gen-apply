@@ -1,7 +1,9 @@
 # HireMail AI  
 <img src="assets/logo.png" alt="HireMail AI Logo" width="150"/>
 
-**AI-powered Job Application Platform — Automate. Tailor. Apply. Win.**
+**AI-powered Job Application Automation Platform**
+Automates resume tailoring, cover letter generation, and job applications using multi-agent AI.
+
 
 ---
 
@@ -26,7 +28,6 @@ HireMail AI reduces **hours → minutes** using **multi-agent AI** that analyzes
 
 ### **Auto-Diagnostic Agent**
 - Detects, reports, and self-corrects runtime issues  
-- Improves reliability by **~60%**
 
 ### **LLM Factory Handler**
 - Routes tasks across OpenAI, Mistral, Gemini, and Hugging Face  
@@ -35,15 +36,6 @@ HireMail AI reduces **hours → minutes** using **multi-agent AI** that analyzes
 ### **Cost-Optimized LLM Routing**
 - Uses lightweight models for simple tasks  
 - Switches to stronger models only when needed
-
----
-
-## 🔒 Source Code
-
-The source code is private while the product is being commercialized.
-
-For collaboration or access requests:  
-📧 **bharath.workmail@gmail.com**
 
 ---
 
