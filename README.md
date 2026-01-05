@@ -1,7 +1,5 @@
 <img src="assets/logo.png" alt="HireMail AI Logo" width="150"/>
 
-# HireMail AI
-
 **AI-powered Job Application Automation Platform**  
 Automates resume tailoring, cover letter generation, and job application submission using a coordinated multi-agent AI system, while keeping you fully in control.
 
