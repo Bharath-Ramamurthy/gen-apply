@@ -40,7 +40,6 @@ HireMail AI automates the repetitive parts of job hunting while keeping the user
 - **Tailor:** Resume customized to each job description  
 - **Write:** Job-specific cover letter generation  
 - **Apply:** With approval, applications can be sent directly to recruiters via Gmail  
-- **Human-in-the-loop:** Final review before submission
 
 ---
 
@@ -58,7 +57,7 @@ HireMail AI automates the repetitive parts of job hunting while keeping the user
 ---
 
 ## 🎥 Demo
-**Watch Full Demo →** YouTube Video (coming soon)
+**Watch Full Demo →** YouTube Video
 
 ---
 
@@ -67,17 +66,4 @@ For a technical walkthrough or architecture discussion:
 
 - **Email:** bharath.workmail@gmail.com  
 - **LinkedIn:** (add your LinkedIn profile link)
-
 ---
-
-## 🗺️ Roadmap to Beta
-- Multi-agent core logic  
-- Multi-LLM Factory Handler  
-- Gmail API restricted scope approval (in progress)  
-- State business certification (in progress)  
-- Initial public code drop — End of January 2026
-
----
-
-Built in India 🇮🇳  
-Contributions welcome — open an issue to discuss architecture or features.
