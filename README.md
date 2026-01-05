@@ -3,26 +3,31 @@
 # HireMail AI
 
 **AI-powered Job Application Automation Platform**  
-Automates resume tailoring, cover letter generation, and job application submission using a coordinated multi-agent AI system — while keeping you fully in control.
+Automates resume tailoring, cover letter generation, and job application submission using a coordinated multi-agent AI system, while keeping you fully in control.
 
 ---
 
-## 🛠️ Status — Pre-Launch Build Phase
-HireMailAI.in is in active development. We're working through final technical and administrative steps before the public code drop.
+# HireMailAI.in
 
-**Current focus**
-- Backend infrastructure spin-up
-- Gmail OAuth integration
+> **Status: V1 Core Build Complete — Awaiting Compliance**
+> HireMailAI.in has finished its primary development phase. We are currently navigating mandatory security audits and state certifications required for a public release.
 
-**Blockers**
-- Gmail API restricted scope verification (in review)
-- State business certification (in review as of Jan 2026)
+### 🚀 Progress Highlights
+- **Backend & Frontend:** 100% of core V1 features implemented.
+- **AI Engine:** Multi-agent resume tailoring and application automation is fully operational in internal staging.
 
-**Target**
-- Full Public Beta — End of January 2026
+### 🛠️ Current Focus
+* **Compliance:** Navigating the **Gmail API Restricted Scope** verification (CASA Tier 2).
+* **Infrastructure:** Finalizing production scaling and security hardening.
 
-⭐ Star this repo to get notified when the first code drops.
+### 🚧 External Blockers
+* ⏳ **Google OAuth:** In the queue for final security review for restricted scopes.
+* 🏛️ **Business Certification:** State-level processing (Under review as of Jan 2026).
 
+### 🎯 Launch Target
+* **Public Beta:** Expected **Q2 2026**.
+
+⭐ **Star this repo** to get a notification the moment we clear these hurdles and open the public beta!
 ---
 
 ## 📉 The Real Problem
