@@ -59,13 +59,11 @@ HireMail AI automates the repetitive parts of job hunting while keeping the user
 ---
 
 ## 🎥 Demo
-**Watch Full Demo →** YouTube Video
-
+**Watch Full Demo →** [YouTube Video](https://www.youtube.com/watch?v=Y0BHGISzkck)
 ---
 
 ## 📬 Contact
 For a technical walkthrough or architecture discussion:
 
-- **Email:** bharath.workmail@gmail.com  
-- **LinkedIn:** (add your LinkedIn profile link)
+- **Email:** bharath.workmail@gmail.com 
 ---
