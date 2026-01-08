@@ -21,14 +21,14 @@ Automates resume tailoring, cover letter generation, and job application submiss
 
 ## 🛠️ Current Focus
 
-- **Compliance:** Ongoing **Gmail API Restricted Scope (CASA Tier 2)** security assessment.
+- **Compliance:** Ongoing **Gmail API Restricted Scope** security assessment.
 - **Infrastructure:** Production readiness, scaling, and security hardening.
 
 ---
 
 ## 🎯 Launch Target
 
-- **Public Beta:** Targeted for **Q2 2026**, subject to completion of mandatory approvals.
+- **Public Beta:** Targeted for **Q3 2026**
 
 ---
 
