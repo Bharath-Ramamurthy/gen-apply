@@ -20,7 +20,7 @@
 
 
 <p align="center">
-  <img src="assets/demo.gif" alt="HireMail AI Demo" width="800"/>
+  <img src="assets/demo.mp4" alt="HireMail AI Demo" width="800"/>
 </p>
 
 ---
