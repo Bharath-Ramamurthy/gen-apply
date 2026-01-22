@@ -18,6 +18,11 @@
   <a href="#-contact">Contact</a>
 </p>
 
+
+<p align="center">
+  <img src="assets/demo.gif" alt="HireMail AI Demo" width="800"/>
+</p>
+
 ---
 
 ## 🎯 Status Update
