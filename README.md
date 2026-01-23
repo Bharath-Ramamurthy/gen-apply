@@ -63,7 +63,7 @@ Job hunting is broken. The application process is:
 HireMail AI transforms job applications from a tedious manual process into an intelligent, automated workflow — **while keeping you in full control**.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bharath-Ramamurthy/hiremailai.in/main/assets/demo.gif" width="800"/>
+  <img src="assets/logo.png" width="800"/>
 
   <br>
   <em>Complete application workflow: from job posting to ready-to-send email in under 2 minutes</em>
@@ -324,17 +324,6 @@ llm = LLMFactory.create(
 
 ---
 
-## 📊 Performance & Impact
-
-| Metric | Traditional Method | HireMail AI | Improvement |
-|--------|-------------------|-------------|-------------|
-| **Time per application** | 45-60 minutes | 5-8 minutes | **85% faster** |
-| **Resume customization** | 30 min manual | 2 min automated | **93% faster** |
-| **System reliability** | N/A | 94%+ uptime | **60% vs. baseline** |
-| **User control** | Full (manual) | Full (reviewed automation) | **Same + efficiency** |
-
----
-
 ## 🎥 Demo
 
 Watch the complete workflow in action:
@@ -347,26 +336,6 @@ Watch the complete workflow in action:
 - Cover letter generation
 - Email composition with user review
 - Complete end-to-end workflow
-
----
-
-## 📁 Repository Information
-
-### About This Repository
-
-This is a **public showcase repository** demonstrating the architecture and design of HireMail AI.
-
-**What's Included:**
-- ✅ Comprehensive architecture documentation
-- ✅ System design and technical decisions
-- ✅ Innovation explanations (multi-agent, auto-diagnostic, LLM factory)
-
-**What's Not Included:**
-- ❌ Production implementation (private pending launch)
-- ❌ Proprietary algorithms and optimization logic
-- ❌ Deployment configurations and infrastructure
-
-**Why?** The platform is undergoing security assessment and compliance review for Gmail API integration. The production codebase will remain private until post-launch.
 
 ---
 
@@ -420,7 +389,7 @@ This is a **public showcase repository** demonstrating the architecture and desi
 - 📜 Compliant with GDPR and data protection standards
 
 **Security Assessment:**
-Currently undergoing Gmail API Restricted Scope security review by Google. This rigorous process ensures the platform meets enterprise-grade security standards.
+Currently undergoing Gmail API Restricted Scope security review by Google
 
 ---
 
@@ -437,9 +406,6 @@ Currently undergoing Gmail API Restricted Scope security review by Google. This 
 
 **Q: Is my resume data secure?**  
 **A:** Yes. Data is encrypted, and we're completing Gmail API security assessment. You can delete your data anytime.
-
-**Q: When can I use this?**  
-**A:** Public beta launch is targeted for Q3 2026, pending completion of security reviews.
 
 **Q: Will this work with ATS (Applicant Tracking Systems)?**  
 **A:** Yes. Resumes are formatted to be ATS-friendly, and the tailoring process maintains proper structure and keywords.
@@ -480,7 +446,6 @@ For commercial inquiries or partnership opportunities: bharath.workmail@gmail.co
 
 <p align="center">
   <strong>Built with ❤️ by Bharath R</strong><br>
-  <em>Making job hunting less painful, one application at a time</em>
 </p>
 
 <p align="center">
