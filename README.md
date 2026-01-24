@@ -90,7 +90,7 @@ GenApply transforms job applications from a tedious manual process into an intel
 
 ### Multi-Agent System Design
 
-HireMail AI uses a **coordinated multi-agent architecture** where specialized AI agents work together, each handling one part of the workflow:
+GenApply uses a **coordinated multi-agent architecture** where specialized AI agents work together, each handling one part of the workflow:
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                    Gen Apply Platform                           │
@@ -121,7 +121,7 @@ HireMail AI uses a **coordinated multi-agent architecture** where specialized AI
 
 **Why Multi-Agent?**
 
-Unlike single-prompt tools that try to do everything at once, HireMail AI's agents specialize:
+Unlike single-prompt tools that try to do everything at once, GenApply's agents specialize:
 
 - **Job Analyzer Agent** → Extracts requirements, skills, and keywords from job descriptions
 - **Resume Tailor Agent** → Customizes resume using RAG-based semantic matching
@@ -359,7 +359,7 @@ Backend runs at: `http://localhost:8000`
 
 ## 🔐 Google OAuth Setup (Gmail API)
 
-HireMail AI uses **Gmail API (Restricted Scope)** to draft and send emails **only after user approval**.
+GenApply uses **Gmail API (Restricted Scope)** to draft and send emails **only after user approval**.
 
 ### ✅ How `credentials.json` is Created
 
@@ -533,11 +533,11 @@ Currently undergoing Gmail API Restricted Scope security review by Google
 
 ## ❓ FAQ
 
-**Q: Does HireMail AI send applications without my approval?**  
+**Q: Does GenApply send applications without my approval?**  
 **A:** No. Every application is prepared as a draft and requires your explicit review and approval before sending. You have full control.
 
 **Q: How is this different from other job application tools?**  
-**A:** Most tools use single-prompt AI or simple templates. HireMail AI uses a coordinated multi-agent system with specialized agents for each task, resulting in higher quality outputs. The Auto-Diagnostic Agent also ensures 60% better reliability.
+**A:** Most tools use single-prompt AI or simple templates. GenApply uses a coordinated multi-agent system with specialized agents for each task, resulting in higher quality outputs. The Auto-Diagnostic Agent also ensures 60% better reliability.
 
 **Q: Which AI models do you use?**  
 **A:** We support multiple providers (OpenAI, Mistral, Gemini, Hugging Face) through a factory pattern, allowing automatic failover and cost optimization.
