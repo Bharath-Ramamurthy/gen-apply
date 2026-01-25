@@ -332,15 +332,14 @@ http://localhost:8000/auth/gmail/login
 ## 📁 Project Structure
 ```
 gen-apply/
-├── backend/
+├── app/
 │   ├── agents/              # Multi-agent system
-│   │   ├── job_analyzer.py
-│   │   ├── resume_tailor.py
-│   │   ├── cover_letter.py
-│   │   ├── email_composer.py
-│   │   └── auto_diagnostic.py
-│   ├── api/
-│   │   └── routes/          # FastAPI endpoints
+│   │   ├── base_agent.py
+│   │   ├── resume_agent.py
+│   │   ├── cover_letter_agent.py
+│   │   ├── email_agent.py
+│   ├── connectors/
+│   │   └── /          # FastAPI endpoints
 │   ├── config/
 │   │   ├── credentials.json # Gmail OAuth (gitignored)
 │   │   └── token.json       # Auto-generated (gitignored)
@@ -348,9 +347,10 @@ gen-apply/
 │   │   └── factory.py       # LLM provider factory
 │   ├── models/              # SQLAlchemy models
 │   └── services/            # Business logic
-├── frontend/                # React application
-├── docker-compose.yml
+└── main.py                  # Streamlit
+└── env.example              #Example ENV File
 └── README.md
+└── requirements.txt
 ```
 
 ---
@@ -380,16 +380,6 @@ gen-apply/
 
 ---
 
-## 🔒 Security & Privacy
-
-- 🔐 Data encrypted in transit and at rest
-- 🔑 OAuth2 with revocable access
-- 👁️ User review required before sending
-- 🗑️ Data deletion on request
-- 📜 GDPR compliant
-
----
-
 ## ❓ FAQ
 
 **Q: Does it send applications automatically?**  
@@ -414,14 +404,6 @@ A: Yes. Resumes maintain ATS-friendly formatting and structure.
 **Technical Discussion:**  
 📧 bharath.workmail@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/bharath-ramamurthy/)
-
-**For Recruiters:**  
-This project demonstrates production-level experience with:
-- Multi-agent AI systems (LangChain)
-- RAG architecture implementation
-- FastAPI backend development
-- System reliability engineering
-- Production software design
 
 ---
 
