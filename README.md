@@ -34,7 +34,6 @@
 [![LangChain](https://img.shields.io/badge/LangChain-0.1.16-6F42C1.svg?style=flat&logo=HuggingFace&logoColor=white)](https://www.langchain.com)
 [![LangGraph](https://img.shields.io/badge/LangGraph-latest-0099FF.svg?style=flat&logo=OpenAI&logoColor=white)](https://www.langgraph.com)
 [![Transformers](https://img.shields.io/badge/Transformers-4.41.2-FF6F61.svg?style=flat&logo=HuggingFace&logoColor=white)](https://huggingface.co/docs/transformers/index)
-[![Torch](https://img.shields.io/badge/Torch-2.2.2-EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org)
 [![OpenAI](https://img.shields.io/badge/OpenAI-1.29.0-412991.svg?style=flat&logo=OpenAI&logoColor=white)](https://openai.com)
 [![HuggingFace-Hub](https://img.shields.io/badge/HuggingFace_Hub-0.23.0-FB8C00.svg?style=flat&logo=HuggingFace&logoColor=white)](https://huggingface.co/docs/huggingface_hub)
 [![ReportLab](https://img.shields.io/badge/ReportLab-4.2.0-0A7FC1.svg?style=flat&logo=Python&logoColor=white)](https://www.reportlab.com/)
@@ -43,11 +42,9 @@
 [![pdfplumber](https://img.shields.io/badge/pdfplumber-0.10.3-5A5A5A.svg?style=flat&logo=Python&logoColor=white)](https://github.com/jsvine/pdfplumber)
 [![python-json-logger](https://img.shields.io/badge/python--json--logger-latest-FFAA00.svg?style=flat&logo=Python&logoColor=white)](https://pypi.org/project/python-json-logger/)
 [![pylatexenc](https://img.shields.io/badge/pylatexenc-latest-4B8BBE.svg?style=flat&logo=Python&logoColor=white)](https://pypi.org/project/pylatexenc/)
-[![FAISS](https://img.shields.io/badge/FAISS-1.7.3-000000.svg?style=flat&logo=Python&logoColor=white)](https://github.com/facebookresearch/faiss)
-[![Redis](https://img.shields.io/badge/Redis-7.0-DC382D.svg?style=flat&logo=Redis&logoColor=white)](https://redis.io)
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-F4F4F4.svg?style=flat&logo=SQLAlchemy&logoColor=black)](https://www.sqlalchemy.org)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-336791.svg?style=flat&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org)
-[![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-FF6600.svg?style=flat&logo=OpenAI&logoColor=white)](https://www.researchgate.net/publication/363693134_Retrieval-Augmented_Generation)
+
+
 
 ---
 
