@@ -15,7 +15,8 @@
 </p>
 
 ---
-![](https://github.com/Bharath-Ramamurthy/gen-apply/blob/main/demo.gif)
+![](https://raw.githubusercontent.com/Bharath-Ramamurthy/gen-apply/main/demo.gif)
+
 
 <p align="center">
   <em>Complete workflow: Job analysis → Resume tailoring → Cover letter → Email draft in under 2 minutes</em>
