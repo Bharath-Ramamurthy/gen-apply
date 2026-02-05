@@ -337,45 +337,9 @@ gen-apply/
 └── requirements.txt
 ```
 
----
-
-## ❓ FAQ
-
-**Q: Does it send applications automatically?**  
-A: No. Every application requires explicit user review and approval.
-
-**Q: How is this different from other tools?**  
-A: Multi-agent architecture (vs. single-prompt), auto-diagnostic reliability (+60%), and multi-LLM failover.
-
-**Q: Which AI models are used?**  
-A: Supports OpenAI, Mistral, Gemini, and Hugging Face through factory pattern.
-
-**Q: Is my data secure?**  
-A: Yes. Encrypted storage, OAuth2 authentication, and GDPR compliance.
-
-**Q: Does it work with ATS systems?**  
-A: Yes. Resumes maintain ATS-friendly formatting and structure.
-
----
-
-## 📬 Contact
-
-**Technical Discussion:**  
-📧 bharath.workmail@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/bharath-ramamurthy/)
-
----
-
-## 📄 License
-
-Copyright © 2025 Bharath R. All rights reserved.
-
----
 
 <p align="center">
   <strong>Built with ❤️ by Bharath R</strong><br>
 </p>
 
-<p align="center">
-  ⭐ Star this repo if you find it useful!
-</p>
+
